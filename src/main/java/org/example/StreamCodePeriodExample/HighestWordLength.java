@@ -1,4 +1,4 @@
-package org.example.InterviewQuestion;
+package org.example.StreamCodePeriodExample;
 
 import java.util.Arrays;
 import java.util.Comparator;
